@@ -18,7 +18,7 @@ const Button = {
       bg: '#38A169',
     },
     pink: {
-      bg: "#DB7093",
+      bg: "#885809",
     },
 
     gradient: {
@@ -35,7 +35,7 @@ const Button = {
   sizes: {
     sm: { fontSize: "0.875rem", height: "30px" },
     md: { height: "50px", fontSize: "1rem" },
-    lg: {},
+    lg: {height: "35px", fontSize: "18px"},
     xl: {},
   },
   defaultProps: {
