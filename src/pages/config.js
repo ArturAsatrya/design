@@ -1,4 +1,4 @@
-// import AuthLayout from "../layouts/AuthLayout";
+//  import AuthLayout from "../layouts/AuthLayout";
 import DefaultLayout from "../layouts/DefaultLayout";
 import Homepage from "./HomePage";
 import Login from "./Login"
@@ -28,8 +28,8 @@ const config = [
     component: Login,
     path: "/login",
     secure: false,
-    layout: DefaultLayout,
-    exact: true,
+    layout: DefaultLayout ,
+    exact:  true,
   },
   {
     component: Register,

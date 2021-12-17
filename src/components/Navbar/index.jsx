@@ -45,7 +45,7 @@ const Navbar = () => {
                   delivery
                 </Text>
               </Link>
-              <Input type="search" bg="white" />
+              <Input type="search" bg="white" size="sm"/>
               <Link to="/like">
                 <Heart />
               </Link>
