@@ -36,7 +36,7 @@ const Button = {
     sm: { fontSize: "0.875rem", height: "30px" },
     md: { height: "50px", fontSize: "1rem" },
     lg: {height: "35px", fontSize: "18px"},
-    xl: {},
+    xl: {height: "40px", fontSize: "16px", width:"220px"},
   },
   defaultProps: {
     size: 'md',
