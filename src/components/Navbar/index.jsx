@@ -1,7 +1,7 @@
 import { Flex, Box, HStack, Text, Input } from "@chakra-ui/react";
 import { Link } from "react-router-dom";
 import ListMenu from "./ListMenu";
-import { ReactComponent as Logo } from "../../assets/logo.svg";
+import { ReactComponent as Logo } from "../../assets/Logo.svg";
 import { ReactComponent as Heart } from "../../assets/heart.svg";
 import UserListMenu from "./UserListMenu";
 
